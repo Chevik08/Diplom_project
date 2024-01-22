@@ -1,0 +1,31 @@
+{
+    "file": {
+        "history": {
+            "name": "Микита",
+            "surname": "Мерных",
+            "patronymic": "Сергеевич",
+            "age": 21,
+            "height": 185.0,
+            "weight": 90.0,
+            "date": "21.12.2023",
+            "live_address": "",
+            "job": "",
+            "doctor_name": "",
+            "doctor_surname": "",
+            "doctor_patronymic": "",
+            "address": "",
+            "diagnosis": "",
+            "info": "",
+            "text": ""
+        },
+        "folder_id": 132488392566,
+        "file_id": 146965125616,
+        "file_name": "Первый визит",
+        "file_tag": "СРОЧНО",
+        "file_date": "20.12.2023"
+    },
+    "folder": {
+        "folder_id": 132488392566,
+        "folder_name": "Черных Н.С."
+    }
+}

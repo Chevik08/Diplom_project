@@ -1,0 +1,31 @@
+{
+    "file": {
+        "history": {
+            "name": "Александр",
+            "surname": "Бочкарёв",
+            "patronymic": "Александровна",
+            "age": 20,
+            "height": 187.2,
+            "weight": 64.8,
+            "date": "20.12.2023",
+            "live_address": "Улица Киренского 25, квартира 16",
+            "job": "Программист",
+            "doctor_name": "Елизавета",
+            "doctor_surname": "Аликина",
+            "doctor_patronymic": "Александровна",
+            "address": "Улица Ленина 4, квартира 6",
+            "diagnosis": "Головная боль",
+            "info": "",
+            "text": "Что-то странное"
+        },
+        "folder_id": 132488392584,
+        "file_id": 132488392587,
+        "file_name": "Первое посещение",
+        "file_tag": "",
+        "file_date": "21.12.2023"
+    },
+    "folder": {
+        "folder_id": 132488392584,
+        "folder_name": "Бочкарёв"
+    }
+}

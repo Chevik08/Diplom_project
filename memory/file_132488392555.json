@@ -1,0 +1,31 @@
+{
+    "file": {
+        "history": {
+            "name": "Никита",
+            "surname": "Черных",
+            "patronymic": "Сергеевич",
+            "age": 21,
+            "height": 185.2,
+            "weight": 92.8,
+            "date": "22.09.2023",
+            "live_address": "Улица Киренского 25, квартира 16",
+            "job": "Программист",
+            "doctor_name": "Елизавета",
+            "doctor_surname": "Аликина",
+            "doctor_patronymic": "Александровна",
+            "address": "Улица Ленина 4, квартира 6",
+            "diagnosis": "Подозрения на бронхит",
+            "info": "Отправить на кардиограмму",
+            "text": ""
+        },
+        "folder_id": 132488392551,
+        "file_id": 132488392555,
+        "file_name": "Второй визит",
+        "file_tag": "",
+        "file_date": "19.12.2023"
+    },
+    "folder": {
+        "folder_id": 132488392551,
+        "folder_name": "Срочные дела"
+    }
+}

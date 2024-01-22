@@ -1,0 +1,31 @@
+{
+    "file": {
+        "history": {
+            "name": "Егор",
+            "surname": "Ларионов",
+            "patronymic": "Владимирович",
+            "age": 21,
+            "height": 183.2,
+            "weight": 90.8,
+            "date": "15.09.2023",
+            "live_address": "Улица Киренского 25, квартира 16",
+            "job": "Программист",
+            "doctor_name": "Елизавета",
+            "doctor_surname": "Аликина",
+            "doctor_patronymic": "Александровна",
+            "address": "Улица Ленина 4, квартира 6",
+            "diagnosis": "Туберкулёз",
+            "info": "",
+            "text": ""
+        },
+        "folder_id": 132488392551,
+        "file_id": 132488392554,
+        "file_name": "Первый визит",
+        "file_tag": "Тег",
+        "file_date": "20.12.2023"
+    },
+    "folder": {
+        "folder_id": 132488392551,
+        "folder_name": "Срочные дела"
+    }
+}
